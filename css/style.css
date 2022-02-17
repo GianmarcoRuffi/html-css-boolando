@@ -5,3 +5,41 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+  width: 70%;
+  margin: 50px 15%;
+}
+
+img {
+  width: 400px;
+  height: 600px;
+}
+
+.card {
+  width: 400px;
+  height: 600px;
+  margin-right: 30px;
+  margin-bottom: 80px;
+  display: inline-block;
+}
+
+.brand {
+}
+
+.model {
+  font-size: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.price {
+  color: #eb0037;
+  font-weight: bold;
+}
+
+.original-price {
+  color: black;
+  font-weight: normal;
+  text-decoration: line-through;
+}
