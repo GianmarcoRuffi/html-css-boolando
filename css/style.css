@@ -38,6 +38,11 @@ img {
   right: 0px;
 }
 
+.heart:hover {
+  color: #eb0037;
+  cursor: pointer;
+}
+
 .info {
   position: absolute;
   display: inline-block;
